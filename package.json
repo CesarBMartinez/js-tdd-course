@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso do JS com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "César Martinez <cesar_martinez22@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarBMartinez/js-tdd-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CesarBMartinez/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/CesarBMartinez/js-tdd-course#readme"
+}
